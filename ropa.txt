@@ -1,3 +1,8 @@
 Vestidos Rojos
-Blusas blancas[A[D[D[D[r[B[C[C[C[C
+Blusas blancas
+Blusas amarillas
+Blusas verdes
+Blusas Purpura
+Blusas Green
+
 

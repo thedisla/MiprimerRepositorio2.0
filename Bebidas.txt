@@ -3,3 +3,5 @@ cerveza
 whisky
 rebull
 estoly
+Brugal
+Tequila
